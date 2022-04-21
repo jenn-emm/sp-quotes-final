@@ -1,0 +1,27 @@
+body {
+  background-image: url(./spongebob-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  font-family: "Slackey", cursive;
+  color: #100ea5;
+  text-align: center;
+  font-size: 3rem;
+  padding: 2.5rem;
+}
+.card {
+  margin-bottom: 1.5rem;
+  text-align: center;
+  /* background-color: #0457a0; */
+}
+#card {
+  background-color: #feffba;
+  color: #0457a0;
+}
+.row {
+  padding: 1rem;
+}
+h5 {
+  font-family: "Slackey", cursive;
+}
